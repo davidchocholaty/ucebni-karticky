@@ -1,18 +1,18 @@
 # Soupis pohledy
 
 ### Hotové
-- [ ] *Přihlášení*
-- [ ] *Registrace*
-- [ ] *Horní menu*
-- [ ] *Levé menu*
+- [x] *Přihlášení*
+- [x] *Registrace*
+- [x] *Horní menu*
+- [x] *Levé menu*
+- [x] Úvodní stránka (stačí možná přidat foto, případně logo)
+- [x] Hlavní stránka
 
 ### Nepřihlášený uživatel
-- [ ] Úvodní stránka (stačí možná přidat foto, případně logo)
 - [ ] (Procvičování veřejných cvičení)
 
 ### Hlavní stránka uživatele (domů)
 - [ ] Hlavní stránka po registraci
-- [ ] Hlavní stránka
 
 ### Vytváření (zápis do databáze)
 - [ ] Vytvoření skupiny
@@ -55,8 +55,8 @@
 
 |    **Celkem**   | **27** |
 |:---------------:|--------|
-| Z toho hotovo:  | 4      |
-| Zbývá udělat:   | 23     |
+| Z toho hotovo:  | 6      |
+| Zbývá udělat:   | 21     |
 
 * Přepočet na den (so 19.11. - pá 25.11.): 3.2 pohledů/den
 * Suma sumáru na každýho to výchází: **1-2 pohledy/den**
