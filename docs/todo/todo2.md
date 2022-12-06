@@ -41,14 +41,14 @@
 - [ ] Náhodné řazení kartiček ve cvičení?
 - [ ] Téma cvičení?
 - [ ] Statistiky cvičení skupiny - zobrazit žáky nejrychlejších a nejúspěšnějších pousů ?
-- [ ] Patička ?
+- [X] Patička ?
 
 ## Cvičení
 - [ ] Editace cvičení - zrušit, uptravit tlačítka přesměrování
-- [ ] Sdílet a zadat cvičení checkbox zadané
-- [ ] Sdílet a zadat cvičení obrázek card ve fixní velikosti
+- [X] Sdílet a zadat cvičení checkbox zadané
+- [X] Sdílet a zadat cvičení obrázek card ve fixní velikosti
 - [ ] Sdílet a zadat cvičení popisek zobrazit n písmen a zalomit "..." 
-- [ ] Spustit cvičení - ikony správně, špatně
+- [X] Spustit cvičení - ikony správně, špatně
 - [ ] Zobrazit cvičení - ikony předchozí, další
 - [ ] Zadat cvičení má velkou mezeru od search boxu
 - [ ] Zadat cvičení - vypsat text, pokud nejsou skupiny, kterým cvičení zadat
