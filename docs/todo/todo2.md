@@ -42,6 +42,7 @@
 - [ ] Téma cvičení?
 - [ ] Statistiky cvičení skupiny - zobrazit žáky nejrychlejších a nejúspěšnějších pousů ?
 - [X] Patička ?
+- [ ] Vytvořit pro kontrolery jednotné API (viz zadání ITU)?
 
 ## Cvičení
 - [ ] Editace cvičení - zrušit, uptravit tlačítka přesměrování
